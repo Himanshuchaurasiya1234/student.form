@@ -1,3 +1,3 @@
 Student registration form
 
-[click here to open](http://127.0.0.1:5500/)
+[click here to open](https://himanshuchaurasiya1234.github.io/student.form/)
